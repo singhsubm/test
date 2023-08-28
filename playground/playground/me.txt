@@ -1,0 +1,6 @@
+{{#user}}
+Name: Shubham Singh
+Skills: Python, JAVA, HTML, CSS, JS
+Email: singhsubm24@gmail.com
+{{/user}}
+
